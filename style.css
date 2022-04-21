@@ -6,3 +6,11 @@
 body{
     background-color: darkblue;
 }
+.fx-spin{
+    animation: fx-spin 1s infinite;
+}
+@keyframes fx-spin {
+    to{
+        transform:rotate(360deg);
+    }
+}
