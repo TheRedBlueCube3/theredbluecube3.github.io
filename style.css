@@ -9,7 +9,7 @@ body {
 
 h1 {
 	-webkit-text-stroke: 1px #000;
-	align-self: center;
+	align-items: center;
 }
 
 .inactive {
