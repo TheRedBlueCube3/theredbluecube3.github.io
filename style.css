@@ -10,6 +10,7 @@ body {
 h1 {
 	-webkit-text-stroke: 1px #000;
 	align-items: center;
+	display: flex;
 }
 
 .inactive {
