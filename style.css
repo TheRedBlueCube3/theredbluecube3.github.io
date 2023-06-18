@@ -7,12 +7,6 @@ body {
 	-webkit-text-stroke: 0.5px #000;
 }
 
-div#wrapper {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
 h1 {
 	-webkit-text-stroke: 1px #000;
 }
