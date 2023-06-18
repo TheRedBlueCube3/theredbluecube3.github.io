@@ -1,2 +1,3 @@
 # theredbluecube3.github.io
-spin
+
+This is my website!
