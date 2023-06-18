@@ -2,13 +2,14 @@ html,
 body {
 	background-color: rgb(195, 196, 197);
 	font-family: Calibri, sans-serif;
-	color: #ccc;
+	color: rgb(119, 119, 120);
 	font-size: 20px;
 	-webkit-text-stroke: 0.5px #000;
 }
 
 h1 {
 	-webkit-text-stroke: 1px #000;
+	align-self: center;
 }
 
 .inactive {
