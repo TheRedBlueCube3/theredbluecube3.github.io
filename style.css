@@ -5,7 +5,8 @@ html {
 	font-family: 'Noto Sans', sans-serif;
 	color: rgb(119, 119, 120);
 	font-size: 20px;
-	text-align: center;
+	justify-content: center;
+	display: flex;
 	-webkit-text-stroke: 0.5px #000;
 }
 
